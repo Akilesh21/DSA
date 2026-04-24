@@ -1,0 +1,2 @@
+class ZeroDenominatorError(Exception):
+    pass
